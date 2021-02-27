@@ -17,17 +17,17 @@ Now, you may be asking yourself: "okay, so how exactly does this work? are clien
 
 ## BetterDiscord Installation
 1. Download BetterDiscord.
-  - [Wndows](https://github.com/rauenzi/BBDInstaller/releases/download/v1.0.5/BandagedBD.exe)
-  - [MacOS](https://github.com/rauenzi/BBDInstaller/releases/download/v1.0.5/BandagedBD_Mac.zip)
-  - [Linux Gist](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172)
+    - [Wndows](https://github.com/rauenzi/BBDInstaller/releases/download/v1.0.5/BandagedBD.exe)
+    - [MacOS](https://github.com/rauenzi/BBDInstaller/releases/download/v1.0.5/BandagedBD_Mac.zip)
+    - [Linux Gist](https://gist.github.com/ObserverOfTime/d7e60eb9aa7fe837545c8cb77cf31172)
 2. Find the location of the installer, right click and "Run as Administrator".
 3. Click the "Install BandagedBD" button.
 4. Find your Discord Build.
-  - Most users will be on stable. If you only have one build of Discord installed it'll be the only selectable one.
+    - Most users will be on stable. If you only have one build of Discord installed it'll be the only selectable one.
 5. Click "Install".
-  - BetterDiscord will automatically reload Discord for you. If you run into any errors, join one of the support servers listed below and ask for help in the proper channels.
-    - [BetterDiscord Primary Server](https://discord.gg/0Tmfo5ZbORCRqbAd)
-    - [BetterDiscord Secondary Server](https://discord.gg/2HScm8j)
+    - BetterDiscord will automatically reload Discord for you. If you run into any errors, join one of the support servers listed below and ask for help in the proper channels.
+      - [BetterDiscord Primary Server](https://discord.gg/0Tmfo5ZbORCRqbAd)
+      - [BetterDiscord Secondary Server](https://discord.gg/2HScm8j)
 6. Congrats, you now have BetterDiscord installed!
 
 If at any time you would like to uninstall Discord:
