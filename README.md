@@ -36,6 +36,8 @@ If at any time you would like to uninstall BetterDiscord:
 3. Find the build you installed it on and selected it.
 4. BetterDiscord should uninstall sucesfully. If you have any issues uninstalling, join one of the support servers listed above and ask for help in the proper channel.
 
+For more information on BetterDiscord, you can visit their site **[here](https://betterdiscord.net/)**.
+
 ### Powercord Installation
 1. Before continuing, please make sure you have the following things downloaded and installed.
     - **[git](https://git-scm.com/downloads)**
@@ -63,6 +65,8 @@ If at any time you would like to uninstall Powercord:
 3. Run `npm run unplug` ***(Linux users: you’ll need to run this command with `sudo`)***.
 4. Completely restart your Discord Client by right clicking the icon in your syhstem tray, and pressing "Quit Discord".
 5. When Discord starts up, Powercord should no longer be injected.
+
+For more information on Powercord, you can visit their site **[here](https://powercord.dev/)**.
 
 ### Vizality Installation
 Vizality is currently in Alpha and cannot be installed at this time by people who are not testers.
