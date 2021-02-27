@@ -1,14 +1,18 @@
 ![Banner](./assets/banner.png)
 
-# Discord Theme Addons / Mini Themes
-This organization is a collection of mini-themes, or theme add-ons that I've made. 
+# Discord Theme Add-ons / Mini-Themes
+This organization includes all of the theme add-ons (or mini-themes) that I've made. If you're new to using client mods on Discord, contine reading this repo as it can assist you with installation.
 
-# Client Mod Installation
+## Client Mod Installation
 Most of these theme add-ons have support for **multiple client mods, as well as support on web.** A list of supported client mods are:
-- **[BetterDiscord](https://betterdiscord.net)** 
-- **[Powercord](https://powercord.dev)**
+- **[BetterDiscord](https://betterdiscord.net)**
+    - **[Direct Installation Help](https://github.com/Discord-Theme-Addons/tutorial#betterdiscord-installation)**
+- **[Powercord](https://powercord.dev)**        
+    - **[Direct Installation Help](https://github.com/Discord-Theme-Addons/tutorial#powercord-installation)** 
 - **[Vizality](https://vizality.com/)**
+    - **[Direct Installation Help](https://github.com/Discord-Theme-Addons/tutorial#vizality-installation)**
 - **[Stylus (WEB)](https://github.com/openstyles/stylus)**
+    - **[Direct Installation Help](https://github.com/Discord-Theme-Addons/tutorial#stylus-installation)**
 
 Now, you may be asking yourself: "okay, so how exactly does this work? are client mods against tos? how do i get the amazing themes?" 
 - For information on how to install specific client mods, continue reading this repo. Find the desired client mod, preferabbly the easiest one to install for you, and read the instructions on how to install.
