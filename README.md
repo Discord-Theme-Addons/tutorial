@@ -19,7 +19,7 @@ Now, you may be asking yourself: "okay, so how exactly does this work? are clien
 - For information on how to install some of the theme add-ons, all repos in the org come with instructions on how to install the specific theme. 
 - As for "is it against ToS?", the short answer is ***yes, it is.*** However, currently **Discord is not going out of their way to terminate users for the usage of client mods**. Note that Stylus isn't exactly against ToS since it doesn't do things that a client mod would do. As long as you don't use anything that absue Discord's API, which the client mods listed above won't allow, you can't really get in much trouble. Though it is your decision if you want to use client mods or not.
 
-### BetterDiscord Installation
+### BetterDiscord Mod Installation
 1. Download BetterDiscord.
     - **[Wndows](https://github.com/rauenzi/BBDInstaller/releases/download/v1.0.5/BandagedBD.exe)**
     - **[MacOS](https://github.com/rauenzi/BBDInstaller/releases/download/v1.0.5/BandagedBD_Mac.zip)**
@@ -42,7 +42,7 @@ If at any time you would like to uninstall BetterDiscord:
 
 For more information on BetterDiscord, you can visit their site **[here](https://betterdiscord.net/)**.
 
-### Powercord Installation
+### Powercord Mod Installation
 1. Before continuing, please make sure you have the following things downloaded and installed.
     - **[git](https://git-scm.com/downloads)**
     - **[node & npm](https://nodejs.org/en/)**
@@ -72,7 +72,7 @@ If at any time you would like to uninstall Powercord:
 
 For more information on Powercord, you can visit their site **[here](https://powercord.dev/)**.
 
-### Vizality Installation
+### Vizality Mod Installation
 Vizality is currently unavaible for installation, as it is currently in an Alpha testing stage. For more information on Vizality, you can visit their site **[here](https://vizality.com/)**.
 
 ### Stylus Installation
@@ -85,13 +85,23 @@ Vizality is currently unavaible for installation, as it is currently in an Alpha
 For more information on Stylus, you can visit the repo **[here](https://github.com/openstyles/stylus)**
 
 ## Theme Installation
-{{PLACEHOLDER}}
+All repos on this org have basic installation instructions. For those that are new to this, I recommend reading below for the specific client mod you're using.
 
-### BetterDiscord
-{{PLACEHOLDER}}
+### BetterDiscord Theme Installation
+1. Open your User Settings.
+2. Scroll down and find the "Themes" tab and click it.
+3. Locate the "Open Themes Folder" button.
+4. Download the desired mini-theme, and drag it into the themes folder. 
+    - All repos on this org that have support for BetterDiscord will be listed under "For BetterDiscord". Click the "Direct Download" hyperlinke (aka link) to install the theme.
+5. Go back to Discord and enable the theme you just added.
 
-### Powercord
-{{PLACEHOLDER}}
+### Powercord Theme Installation
+1. Open a command prompt / terminal of choice.
+2. Run this command in the prompt / terminal you just opened:
+    - `cd powercord/src/powercord/themes && git clone https://github.com/Discord-Theme-Addons/REPO-NAME`
+3. Focus Discord and reload using `CTRL` + `R`.
 
-### Stylus
-{{PLACEHOLDER}}
+### Stylus Theme Installation
+1. Find the desired mini-theme on this repo.
+2. All repos on this org that have support for Stylus will be listed under "For Browser / Web". Follow the installation link.
+3. Press "Install Style".
