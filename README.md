@@ -4,8 +4,6 @@
 This organization is a collection of mini-themes, or theme add-ons that I've made. 
 
 # Client Mod Installation
-These theme add-ons have support for many client mods, such as **[BetterDiscord](https://betterdiscord.net)**, **[Powercord](https://powercord.dev)**, **[Vizality](https://vizality.com/)**, and (not really a client mod) **[Web](https://github.com/openstyles/stylus)**. You may be asking "bUT lUckFirE, whAT iS A clIEnt MOd and How do i GeT iT/!? IS it AGAINst toS/!?" 
-
 Most of these theme add-ons have support for **multiple client mods, as well as support on web.** A list of supported client mods are:
 - **[BetterDiscord](https://betterdiscord.net)**
 - **[Powercord](https://powercord.dev)**
