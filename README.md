@@ -6,13 +6,13 @@ This organization includes all of the theme add-ons (or mini-themes) that I've m
 ## Client Mod Installation
 Most of these theme add-ons have support for **multiple client mods, as well as support on web.** A list of supported client mods are:
 - **[BetterDiscord](https://betterdiscord.net)**
-    - **[Direct Installation Help](https://github.com/Discord-Theme-Addons/tutorial#betterdiscord-installation)**
+    - [Direct Installation Help](https://github.com/Discord-Theme-Addons/tutorial#betterdiscord-installation)
 - **[Powercord](https://powercord.dev)**        
-    - **[Direct Installation Help](https://github.com/Discord-Theme-Addons/tutorial#powercord-installation)** 
+    - [Direct Installation Help](https://github.com/Discord-Theme-Addons/tutorial#powercord-installation)
 - **[Vizality](https://vizality.com/)**
-    - **[Direct Installation Help](https://github.com/Discord-Theme-Addons/tutorial#vizality-installation)**
+    - [Direct Installation Help](https://github.com/Discord-Theme-Addons/tutorial#vizality-installation)
 - **[Stylus (WEB)](https://github.com/openstyles/stylus)**
-    - **[Direct Installation Help](https://github.com/Discord-Theme-Addons/tutorial#stylus-installation)**
+    - [Direct Installation Help](https://github.com/Discord-Theme-Addons/tutorial#stylus-installation)
 
 Now, you may be asking yourself: "okay, so how exactly does this work? are client mods against tos? how do i get the amazing themes?" 
 - For information on how to install specific client mods, continue reading this repo. Find the desired client mod, preferabbly the easiest one to install for you, and read the instructions on how to install.
@@ -73,7 +73,11 @@ If at any time you would like to uninstall Powercord:
 For more information on Powercord, you can visit their site **[here](https://powercord.dev/)**.
 
 ### Vizality Installation
-Vizality is currently in Alpha and cannot be installed at this time by people who are not testers.
+Vizality is currently unavaible for installation, as it is currently in an Alpha testing stage. For more information on Vizality, you can visit their site **[here](https://vizality.com/)**.
 
 ### Stylus Installation
-{{PLACEHOLDER}}
+1. Install the Stylus extension
+    - [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
+    - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) 
+    - [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus).
+2. That's all there really is to it.
