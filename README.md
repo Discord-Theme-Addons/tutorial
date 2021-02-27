@@ -6,13 +6,16 @@ This organization includes all of the theme add-ons (or mini-themes) that I've m
 ## Client Mod Installation
 Most of these theme add-ons have support for **multiple client mods, as well as support on web.** A list of supported client mods are:
 - **[BetterDiscord](https://betterdiscord.net)**
-    - [Client Mod Installation Help](https://github.com/Discord-Theme-Addons/tutorial#betterdiscord-installation)
+    - [Client Mod Installation Help](https://github.com/Discord-Theme-Addons/tutorial#betterdiscord-mod-installation)
+    - [Theme Installation Help](https://github.com/Discord-Theme-Addons/tutorial#betterdiscord-theme-installation)
 - **[Powercord](https://powercord.dev)**        
-    - [Client Mod Installation Help](https://github.com/Discord-Theme-Addons/tutorial#powercord-installation)
+    - [Client Mod Installation Help](https://github.com/Discord-Theme-Addons/tutorial#powercord-mod-installation)
+    - [Theme Installation Help](https://github.com/Discord-Theme-Addons/tutorial#powercord-theme-installation)
 - **[Vizality](https://vizality.com/)**
-    - [Client Mod Installation Help](https://github.com/Discord-Theme-Addons/tutorial#vizality-installation)
-- **[Stylus (WEB)](https://github.com/openstyles/stylus)**
-    - [Client Mod Installation Help](https://github.com/Discord-Theme-Addons/tutorial#stylus-installation)
+    - [Client Mod Installation Help](https://github.com/Discord-Theme-Addons/tutorial#vizality-mod-installation)
+- **[Stylus](https://github.com/openstyles/stylus)**
+    - [Installation Help](https://github.com/Discord-Theme-Addons/tutorial#stylus-installation)
+    - [Theme Installation Help](https://github.com/Discord-Theme-Addons/tutorial#stylus-theme-installation)
 
 Now, you may be asking yourself: "okay, so how exactly does this work? are client mods against tos? how do i get the amazing themes?" 
 - For information on how to install specific client mods, continue reading this repo. Find the desired client mod, preferabbly the easiest one to install for you, and read the instructions on how to install.
