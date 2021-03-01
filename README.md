@@ -97,7 +97,7 @@ All repos on this org have basic installation instructions. For those that are n
 2. Scroll down and find the "Themes" tab and click it.
 3. Locate the "Open Themes Folder" button.
 4. Download the desired mini-theme, and drag it into the themes folder. 
-    - All repos on this org that have support for BetterDiscord will be listed under "For BetterDiscord". Click the "Direct Download" hyperlinke (aka link) to install the theme.
+    - All repos on this org that have support for BetterDiscord will be listed under "For BetterDiscord". Click the "Direct Download" hyperlink (aka link) to download the theme.
 5. Go back to Discord and enable the theme you just added.
 
 ### Powercord Theme Installation
