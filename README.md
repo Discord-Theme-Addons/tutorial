@@ -45,6 +45,8 @@ If at any time you would like to uninstall BetterDiscord:
 
 For more information on BetterDiscord, you can visit their site **[here](https://betterdiscord.net/)**.
 
+**Credit for BD part i yoinked: [Discord Styles Tutorial](https://github.com/DiscordStyles/Tutorial)**
+
 ### Powercord Mod Installation
 1. Before continuing, please make sure you have the following things downloaded and installed.
     - **[git](https://git-scm.com/downloads)**
@@ -62,14 +64,14 @@ For more information on BetterDiscord, you can visit their site **[here](https:/
     1. `git clone https://github.com/powercord-org/powercord`
     2. `cd powercord`
     3. `npm i`
-    4. `npm run plug` ***(Linux users: you’ll need to run this command with `sudo`)***.
+    4. `npm run plug` ***(linux users will need to run the command with `sudo`)***.
 4. Completely restart your Discord Client by right clicking the icon in your syhstem tray, and pressing "Quit Discord".
 5. When Discord starts up, Powercord should be injected!
 
 If at any time you would like to uninstall Powercord:
 1. Open a command prompt / terminal of choice.
 2. Navigate to your current existing Powercord installation.
-3. Run `npm run unplug` ***(Linux users: you’ll need to run this command with `sudo`)***.
+3. Run `npm run unplug` ***(linux users will need to run the command with `sudo`)***.
 4. Completely restart your Discord Client by right clicking the icon in your syhstem tray, and pressing "Quit Discord".
 5. When Discord starts up, Powercord should no longer be injected.
 
