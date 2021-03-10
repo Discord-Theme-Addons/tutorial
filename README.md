@@ -84,7 +84,7 @@ Vizality is currently unavaible for installation, as it is currently in an Alpha
 1. Install the Stylus extension, which can be found on:
     - [Chrome](https://chrome.google.com/webstore/detail/stylus/clngdbkpkpeebahjckkjfobafhncgmne)
     - [Firefox](https://addons.mozilla.org/en-US/firefox/addon/styl-us/) 
-    - [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus).
+    - [Opera](https://github.com/openstyles/stylus/wiki/Opera,-Outdated-Stylus)
 2. That's all there really is to it.
 
 For more information on Stylus, you can visit the repo **[here](https://github.com/openstyles/stylus)**
