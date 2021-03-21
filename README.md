@@ -110,3 +110,9 @@ All repos on this org have basic installation instructions. For those that are n
 1. Find the desired mini-theme on this repo.
 2. All repos on this org that have support for Stylus will be listed under "For Browser / Web". Follow the installation link.
 3. Press "Install Style".
+
+
+# Credits
+Some credit to those who inspired the amazing looking repos that you can find on this org!
+- **[dperolio](https://github.com/dperolio)** for the amazing **[Vizality banner template](https://www.figma.com/community/file/937081422569421176)**.
+- **[Snapperito](https://github.com/snappercord)** for helping me figure out how Figma works for making the banners as well as giving me inspiration to add support for Vizlaity, BetterDiscord and Web.
